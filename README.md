@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nothing to look for. I'm just a sophomore in HCMUS. I don't even know what is OOP.
+ Haha, I'm too lazy to make an impressive github profile.
+ 
+ ### (HTML/CSS/JS/PostCSS/Sass) projects
+ - [Netflix Subscription Landing Page](https://minhphat-netflix-clone.netlify.app/)
+ - [Omni Food Landing Page](https://minhphat-omnifood.netlify.app/)
+ - [Natours Landing Page](https://minhphat-natours.netlify.app/) 
