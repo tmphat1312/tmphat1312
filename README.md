@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Haha, I'm too lazy to make an impressive github profile.
+ Haha, I'm too lazy to make an impressiveGitHubb profile.
  
- ### (HTML/CSS/JS/PostCSS/Sass) projects
+ ### Some of my projects to showcase 😁
  - [Netflix Subscription Landing Page](https://minhphat-netflix-clone.netlify.app/)
  - [Omni Food Landing Page](https://minhphat-omnifood.netlify.app/)
- - [Natours Landing Page](https://minhphat-natours.netlify.app/) 
+ - [Natours Landing Page](https://minhphat-natours.netlify.app/)
+ - [Jobster - Job Tracking App](https://minphat-jobster.netlify.app/)
