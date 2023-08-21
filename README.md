@@ -1,26 +1,15 @@
 ### Hi there 👋
+---
 
-<!--
-**tmphat1312/tmphat1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- Haha, I'm too lazy to make an impressiveGitHubb profile.
+ Haha, I'm too lazy to make an impressive GitHub profile.
  
- ### Some of my projects to showcase 😁
+### Some of my projects to showcase 😁
  - [Netflix Subscription Landing Page](https://minhphat-netflix-clone.netlify.app/)
  - [Omni Food Landing Page](https://minhphat-omnifood.netlify.app/)
  - [Natours Landing Page](https://minhphat-natours.netlify.app/)
  - [Jobster - Job Tracking App](https://minphat-jobster.netlify.app/)
+ - [MoShows - The movies database](https://minhphat-moshows.netlify.app/)
 
-### What's I'm working on?
-- [MoShows - The movies database](https://minhphat-moshows.netlify.app/)
+### What I'm working on?
+ - [Laravel](https://laravel.com/)
+
