@@ -10,6 +10,4 @@
  - [Jobster - Job Tracking App](https://minphat-jobster.netlify.app/)
  - [MoShows - The movies database](https://minhphat-moshows.netlify.app/)
 
-### What I'm working on?
- - [Laravel](https://laravel.com/)
 
